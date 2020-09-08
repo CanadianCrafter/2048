@@ -37,7 +37,7 @@ public class MusicPlayer {
 		
 	}
 	
-	//done by bryan; plays a clip once.
+	//plays a clip once - my only edit
 	public static void playClip(String audioLocation) { 
 		
 		try {
